@@ -1,0 +1,23 @@
+{
+  "name": "my-launchx_app",
+  "version": "1.0.0",
+  "description": "ejercicio semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloDuenas/my-launchx_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloDuenas/my-launchx_app/issues"
+  },
+  "homepage": "https://github.com/PabloDuenas/my-launchx_app#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
